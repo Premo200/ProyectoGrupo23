@@ -1,0 +1,255 @@
+.grupo-frame1-layout3 {
+  width: 1440px;
+  height: 1445px;
+  display: flex;
+  padding: 0 195px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  background-color: lightgray;
+}
+.grupo-psychoscontainer {
+  gap: 80px;
+  top: 0px;
+  left: 197.5px;
+  width: 1045px;
+  display: flex;
+  padding: 160px 0;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+.grupo-row04 {
+  gap: 5px;
+  width: 1044px;
+}
+.grupo-maincontent1 {
+  gap: 10px;
+  width: 691px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.grupo-text060 {
+  color: black;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.grupo-text062 {
+  color: black;
+  height: auto;
+  text-align: left;
+  line-height: 50px;
+}
+.grupo-text064 {
+  color: rgb(3, 24, 31);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.grupo-psychosframe {
+  gap: 32px;
+  width: 1045px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.grupo-psychocard {
+  width: 1035px;
+  display: flex;
+  overflow: hidden;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(70, 84, 163, 0.10000000149011612);
+  border-style: solid;
+  border-width: 7px;
+  background-color: rgb(144, 195, 177);
+}
+.grupo-fixedheight {
+  width: 348px;
+  height: 317px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.grupo-psychoimage1 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 317px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+}
+.grupo-psychoimage1 img {
+  width: 100%;
+  height: auto;
+}
+.grupo-psychoimage2 img {
+  width: 100%;
+  height: auto;
+}
+.grupo-psychoimage3 img {
+  width: 100%;
+  height: auto;
+}
+.grupo-psychoframe {
+  gap: 21px;
+  width: 687px;
+  display: flex;
+  padding: 25px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.grupo-psychodata {
+  gap: 445px;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.grupo-psychoname {
+  color: black;
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.grupo-frame4sec {
+  gap: 5px;
+  display: flex;
+  padding: 5px 10px;
+  overflow: hidden;
+  align-items: flex-start;
+  border-radius: 20px;
+  justify-content: flex-end;
+  background-color: rgb(3, 36, 20);
+}
+.grupo-iconemojionestar {
+  width: 16px;
+  height: 16px;
+}
+.grupo-psychograde {
+  color: grey;
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.grupo-psychodescription {
+  color: black;
+  width: 570px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.grupo-prices {
+  gap: 5px;
+  display: flex;
+  padding: 5px 3px;
+  align-items: flex-start;
+}
+.grupo-text072 {
+  color: black;
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.grupo-text074 {
+  color: black;
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.grupo-button-contact {
+  gap: 10px;
+  display: flex;
+  padding: 10px 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(70, 84, 163, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 37px;
+}
+.grupo-button-contact:hover {
+  background-color: blue;
+  border-color: white;
+  cursor: pointer;
+}
+.grupo-contact {
+  color: gray;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.grupo-icnarrowrighticnxs1 {
+  width: 9px;
+  height: 16px;
+}
+.grupo-psychoimage2 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 317px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+}
+.grupo-psychoimage3 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 317px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+}

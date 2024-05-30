@@ -1,0 +1,134 @@
+body {
+  background-color: lightgrey;
+  background-size: cover;
+  background-position: center;
+}
+
+.button {
+  color: #0c3285;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-color: #000000;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: white;
+}
+.input {
+  color: #000000;
+  cursor: auto;
+  padding: 0.5rem 1rem;
+  border-color: #000000;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: white;
+}
+.textarea {
+  color: black;
+  cursor: auto;
+  padding: 0.5rem;
+  border-color: black;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: white;
+}
+.list {
+  width: 100%;
+  margin: 1em 0px 1em 0px;
+  display: block;
+  padding: 0px 0px 0px 1.5rem;
+  list-style-type: none;
+  list-style-position: outside;
+}
+.list-item {
+  display: list-item;
+}
+.teleport-show {
+  display: flex !important;
+  transform: none !important;
+}
+.Content {
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.Heading {
+  font-size: 32px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.paragraph {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.h6 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.h5 {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.h2 {
+  font-size: 40px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.link {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.h3 {
+  font-size: 24px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.small {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.h4 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.h1 {
+  font-size: 58px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.btnText {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
