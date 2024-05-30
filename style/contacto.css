@@ -1,4 +1,4 @@
-.apsion-frame1-layout4 {
+.DiJuFra-frame1-layout4 {
   width: 100%;
   height: 827px;
   display: flex;
@@ -8,7 +8,7 @@
   align-items: flex-start;
   background-color: rgb(209, 228, 235);
 }
-.apsion-container06 {
+.DiJuFra-container06 {
   gap: 65px;
   top: -25px;
   left: 195px;
@@ -23,7 +23,7 @@
   flex-direction: column;
   left: 435px;
 }
-.apsion-row07 {
+.DiJuFra-row07 {
   width: 692px;
   display: flex;
   overflow: hidden;
@@ -31,7 +31,7 @@
   flex-shrink: 0;
   flex-direction: column;
 }
-.apsion-maincontent2 {
+.DiJuFra-maincontent2 {
   gap: 13px;
   width: 691px;
   height: 127px;
@@ -41,25 +41,25 @@
   flex-shrink: 0;
   flex-direction: column;
 }
-.apsion-text122 {
+.DiJuFra-text122 {
   color: var(--dl-color-default-textcolor);
   height: auto;
   text-align: center;
   line-height: 50px;
 }
-.apsion-text124 {
+.DiJuFra-text124 {
   color: var(--dl-color-default-secondtextcolor);
   height: auto;
   text-align: center;
   line-height: 20px;
 }
-.apsion-div {
+.DiJuFra-div {
   gap: 20px;
   display: flex;
   align-items: center;
   flex-direction: column;
 }
-.apsion-featureitemsec {
+.DiJuFra-featureitemsec {
   gap: 10px;
   width: 441px;
   display: flex;
@@ -67,23 +67,23 @@
   align-items: center;
   flex-shrink: 0;
 }
-.apsion-bxbxmap {
+.DiJuFra-bxbxmap {
   width: 24px;
   height: 30px;
 }
-.apsion-text126 {
+.DiJuFra-text126 {
   color: var(--dl-color-default-secondtextcolor);
   height: auto;
   text-align: center;
   line-height: 24px;
 }
-.apsion-frame4 {
+.DiJuFra-frame4 {
   gap: 28px;
   display: flex;
   align-items: flex-start;
   justify-content: center;
 }
-.apsion-featureitemsec1 {
+.DiJuFra-featureitemsec1 {
   gap: 10px;
   width: 254px;
   display: flex;
@@ -91,11 +91,11 @@
   align-items: center;
   flex-shrink: 0;
 }
-.apsion-carbonsendalt {
+.DiJuFra-carbonsendalt {
   width: 24px;
   height: 26px;
 }
-.apsion-text128 {
+.DiJuFra-text128 {
   color: var(--dl-color-default-secondtextcolor);
   width: 370px;
   height: auto;
@@ -108,7 +108,7 @@
   font-stretch: normal;
   text-decoration: underline;
 }
-.apsion-featureitemsec2 {
+.DiJuFra-featureitemsec2 {
   gap: 10px;
   width: 165px;
   height: 24px;
@@ -118,14 +118,14 @@
   align-items: center;
   flex-shrink: 0;
 }
-.apsion-bxbxphone {
+.DiJuFra-bxbxphone {
   top: 0px;
   left: 0px;
   width: 24px;
   height: 24px;
   position: absolute;
 }
-.apsion-text130 {
+.DiJuFra-text130 {
   left: 34px;
   color: var(--dl-color-default-secondtextcolor);
   width: 375px;
@@ -134,7 +134,7 @@
   text-align: left;
   line-height: 24px;
 }
-.apsion-rowsec {
+.DiJuFra-rowsec {
   gap: 30px;
   width: 688px;
   display: flex;
@@ -142,7 +142,7 @@
   flex-shrink: 0;
   justify-content: center;
 }
-.apsion-form1 {
+.DiJuFra-form1 {
   gap: 20px;
   display: flex;
   box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 3);
@@ -153,7 +153,7 @@
   width: 500px;
   height: 440px;
 }
-.apsion-nombreyapellidos1 {
+.DiJuFra-nombreyapellidos1 {
   width: 428px;
   height: 50px;
   display: flex;
@@ -161,7 +161,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.apsion-text132 {
+.DiJuFra-text132 {
   top: 11px;
   left: 0.5px;
   color: var(--dl-color-default-secondtextcolor);
@@ -177,7 +177,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.apsion-userlogo2 {
+.DiJuFra-userlogo2 {
   top: 0px;
   left: 20px;
   width: 17px;
@@ -186,7 +186,7 @@
   margin: auto;
   position: absolute;
 }
-.apsion-email1 {
+.DiJuFra-email1 {
   width: 428px;
   height: 50px;
   display: flex;
@@ -194,14 +194,14 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.apsion-input7 {
+.DiJuFra-input7 {
   top: 0px;
   left: 0px;
   width: 428px;
   height: 50px;
   position: absolute;
 }
-.apsion-group32 {
+.DiJuFra-group32 {
   top: 13px;
   left: 22px;
   width: 100.5px;
@@ -211,7 +211,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.apsion-text134 {
+.DiJuFra-text134 {
   left: 42.5px;
   color: var(--dl-color-default-secondtextcolor);
   width: 60px;
@@ -226,14 +226,14 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.apsion-maillogo1 {
+.DiJuFra-maillogo1 {
   top: 4px;
   left: 0px;
   width: 21px;
   height: 16px;
   position: absolute;
 }
-.apsion-mensaje {
+.DiJuFra-mensaje {
   width: 428px;
   height: 183px;
   display: flex;
@@ -241,7 +241,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.apsion-input8 {
+.DiJuFra-input8 {
   top: 0px;
   left: 0px;
   width: 428px;
@@ -250,7 +250,7 @@
   background-color: red;
   color: red;
 }
-.apsion-group11 {
+.DiJuFra-group11 {
   top: 11px;
   left: 7px;
   width: 188px;
@@ -260,7 +260,7 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
-.apsion-text136 {
+.DiJuFra-text136 {
   top: 0px;
   color: var(--dl-color-default-secondtextcolor);
   width: 188px;
@@ -277,7 +277,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.apsion-iconomensaje {
+.DiJuFra-iconomensaje {
   top: 3px;
   left: 0px;
   width: 24px;
@@ -286,7 +286,7 @@
   align-self: center;
   margin-left: 15px;
 }
-.apsion-button-md3 {
+.DiJuFra-button-md3 {
   gap: 10px;
   width: 263px;
   display: flex;
@@ -300,7 +300,7 @@
   background-color: rgb(91, 139, 137);
 }
 
-.apsion-text138 {
+.DiJuFra-text138 {
   color: var(--dl-color-default-lighttextcolor);
   height: auto;
   text-align: center;
@@ -321,6 +321,6 @@
 }
 
 
-.apsion-button-md3:hover{
+.DiJuFra-button-md3:hover{
   background-color: blue; 
 }

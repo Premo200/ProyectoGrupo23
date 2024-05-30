@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-  const button = document.querySelector(".apsion-button-md3");
+  const button = document.querySelector(".DiJuFra-button-md3");
   const nombreInput = document.getElementById("nombreYApellidosInput");
   const emailInput = document.getElementById("emailInput");
   const mensajeInput = document.getElementById("mensajeInput");
